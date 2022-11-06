@@ -2,7 +2,7 @@
 - 👀 I'm interested in tooling design engineering, programming, systematization of workflow processes, data collection and analysis in automotive and  heavy-duty production.
 - 🌱 I'm currently learning programming on Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hmustakaev@mail.ru
+- 📫 How to reach me hmustakaev@mail.ru, https://www.linkedin.com/in/ruslan-mustakaev/
 
 <!---
 RuslanMustakaev/RuslanMustakaev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
